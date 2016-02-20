@@ -1,0 +1,37 @@
+body{
+	background-color: #333;
+}
+.head_block{
+	text-align: center;
+}
+.vk{
+	font-family: 'Raleway', sans-serif;
+	font-size: 44px;
+	color: cadetblue;
+}
+.vk_d{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: cadetblue;
+}
+.vk_d2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: slategray;
+}
+.github{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: skyblue;	
+}
+p{
+	color: slategray;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+
+
+/*
+<script type="text/javascript" src="https://asciinema.org/a/47nt6rjyyxuwel9y5gtv8xs4h.js" id="asciicast-47nt6rjyyxuwel9y5gtv8xs4h" async></script>
+*/
